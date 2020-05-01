@@ -1,0 +1,1 @@
+# Início da criação do Projeto de estudo do SQL com Knex
